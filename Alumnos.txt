@@ -1,0 +1,6 @@
+---------nuevo alumno---------
+Herberth Barrenechea
+edad= 19 ,DNI= 71465571 ,notas= [19, 18, 16, 17] ,nota mayor= 19 ,nota menor= 16 ,promedio= 17.5 
+---------nuevo alumno---------
+Pepito Cruz
+edad= 18 ,DNI= 16487916 ,notas= [13, 16, 14, 15] ,nota mayor= 16 ,nota menor= 13 ,promedio= 14.5 

@@ -1,0 +1,6 @@
+---------nuevo docente---------
+Carl Linneo
+edad= 29 ,DNI= 71897157 
+---------nuevo docente---------
+Juan
+edad= 25 ,DNI= 71511666 
